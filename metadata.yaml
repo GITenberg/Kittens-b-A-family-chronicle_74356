@@ -1,0 +1,46 @@
+_repo: Kittens-b-A-family-chronicle_74356
+_version: 0.0.1
+contributor:
+  commentator:
+    agent_name: Van Vechten, Carl
+    aliases:
+    - Vetchen, Carl Van
+    - Vechten, Carl Van
+    birthdate: 1880
+    deathdate: 1964
+    gutenberg_agent_id: '31911'
+    url: http://www.gutenberg.org/2009/agents/31911
+    wikipedia: https://en.wikipedia.org/wiki/Carl_Van_Vechten
+  translator:
+    agent_name: Pritchard, David
+    gutenberg_agent_id: '57464'
+    url: http://www.gutenberg.org/2009/agents/57464
+creator:
+  author:
+    agent_name: Fleuron, Svend
+    birthdate: 1874
+    deathdate: 1966
+    gutenberg_agent_id: '8724'
+    url: http://www.gutenberg.org/2009/agents/8724
+    wikipedia: http://de.wikipedia.org/wiki/Svend_Fleuron
+description: ''
+gutenberg_issued: '2024-09-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74356'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=hvd.hwqsnf&seq=1
+pgterms:marc905: 20240312141810fleuron
+pgterms:marc906: '1922'
+pgterms:marc907: US
+production_note: Susan E., Emmanuel Ackerman and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aNew York :$bAlfred A. Knopf, Inc., $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Kittens : $b A family chronicle'
+url: http://www.gutenberg.org/ebooks/74356
