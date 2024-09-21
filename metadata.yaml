@@ -15,6 +15,9 @@ contributor:
     agent_name: Pritchard, David
     gutenberg_agent_id: '57464'
     url: http://www.gutenberg.org/2009/agents/57464
+covers:
+- cover_type: archival
+  image_path: 74356-h/images/cover.jpg
 creator:
   author:
     agent_name: Fleuron, Svend
@@ -24,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8724
     wikipedia: http://de.wikipedia.org/wiki/Svend_Fleuron
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74356#Kittens-b-A-family-chronicle
 gutenberg_issued: '2024-09-03'
 gutenberg_type: Text
 identifiers:
